@@ -180,6 +180,7 @@ img {
 
   img {
     border-radius: 5px;
+    border: 1px dotted #FFEBCD;
   }
 }
 
@@ -197,8 +198,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $cursive;
+  font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
 }
