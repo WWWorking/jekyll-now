@@ -85,4 +85,5 @@ exclude:
   - package-lock.json
   - LICENSE
   - README.md
+  - CHANGELOG.md
   - CNAME
