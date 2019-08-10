@@ -75,6 +75,9 @@ kramdown:
 sass:
   style: :compressed # You might prefer to minify using :compressed(:expanded)
 
+# Excerpt separator
+excerpt_separator: <!--more-->
+
 # Specifies how many items should be displayed per page
 paginate: 10
 
