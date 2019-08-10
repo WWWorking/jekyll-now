@@ -22,6 +22,7 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
   min-width: 320px;
+  min-height: 100vh;
 }
 
 .container {
@@ -277,6 +278,9 @@ nav {
 }
 
 .wrapper-footer {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100vh;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
