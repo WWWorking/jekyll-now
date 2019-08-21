@@ -26,7 +26,7 @@ permalink: /about/
 
 推荐使用较新的现代浏览器访问本站以获得最佳体验。本站对老旧的浏览器不提供任何保障和支持，比如：任意版本的 Internet Explorer®️(IE)。站内不提供评论功能，若有需要可以通过电子邮箱或者任意的公开信息联系我。
 
-博客名称取自[糊餐厅(WORKING!!)](https://search.bilibili.com/all?keyword=working)这部番剧名，只因这个英文单词包含了多重意义，除此之外并无特殊缘由，闲置域名拿来就用，也没有特殊寓意。
+博客名称取自[迷糊餐厅(WORKING!!)](https://search.bilibili.com/all?keyword=working)这部番剧名，只因这个英文单词包含了多重意义，除此之外并无特殊缘由，闲置域名拿来就用，也没有特殊寓意。
 
 ### License
 
