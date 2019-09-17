@@ -123,9 +123,10 @@ figure {
 }
 
 figcaption {
+  margin: 0.5em 0;
   color: #999;
   font-size: 0.875rem;
-  line-height: 2;
+  line-height: 1.2;
 }
 
 // Fixes images in popup boxes from Google Translate
