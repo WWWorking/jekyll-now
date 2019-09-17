@@ -1,0 +1,7 @@
+<figure>
+    <img src="{{ include.src }}"
+         alt="{{ include.alt | default: 'Loading or Failed' }}">
+    {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>
