@@ -173,9 +173,7 @@ A similar and smaller viaduct bridge can be found in Hunan as well. Here is the 
 
 The Chinese said: “Hold up. There are ten more to come in the next five years”.
 
-{% include figure.html width=1701 height=957 src="https://goudgg.ch.files.1drv.com/y4mbx6j5uDa4pooToWFKkAdMqK_Nv1BgPNFZSdo-B2enRjbv96bt8mVvXgpdZqCESN5BXJie1a077VWS_qWhkqWta5NE1alEwYgBEMiRNg9YRQwqa0cdQCa3T2iMTY8OxQiYyCyuh3GPO04mxEddzOB9I29eGWSYMvWxjC-Po1N8g1KtkHbncXb2I9dofD0NO9McgjffM-G-B_IzKBze3u7VQ?width=1701&height=957&cropmode=none" %}
-
-*A high-speed railway arch bridge in Guizhou. Bullet trains pass through this bridge at the speed of 250km/h.*
+{% include figure.html width=1701 height=957 caption="A high-speed railway arch bridge in Guizhou. Bullet trains pass through this bridge at the speed of 250km/h." src="https://goudgg.ch.files.1drv.com/y4mbx6j5uDa4pooToWFKkAdMqK_Nv1BgPNFZSdo-B2enRjbv96bt8mVvXgpdZqCESN5BXJie1a077VWS_qWhkqWta5NE1alEwYgBEMiRNg9YRQwqa0cdQCa3T2iMTY8OxQiYyCyuh3GPO04mxEddzOB9I29eGWSYMvWxjC-Po1N8g1KtkHbncXb2I9dofD0NO9McgjffM-G-B_IzKBze3u7VQ?width=1701&height=957&cropmode=none" %}
 
 For comparison, a similar railway bridge is also being built in India. It is the Chenab Railway Bridge in J&K. [Chenab Bridge - Wikipedia](https://en.wikipedia.org/wiki/Chenab_Bridge) However, this bridge started in 2003 and it was originally intended to be completed in December 2009. But ten years passed the Indian people have still not finished it.
 
@@ -323,9 +321,7 @@ And what’s worse. The top CCP leader in Guangxi focused on building expressway
 
 People are leaving and ships are not coming. That’s why the Guangxi CCP leader did not get promoted. However, Guangxi is not a province, but it is an autonomous region in China. So it has its own laws and regulations. **One of its regulation is that the Guangxi leader must be a Zhuang entity [Zhuang people - Wikipedia](https://en.wikipedia.org/wiki/Zhuang_people)**. This race-based selection obviously breaks the meritocracy system of CCP. And I think this is probably the reason why Guangxi is not developed so well. That’s why I suggest to remove the “autonomous” status and make Guangxi a province.
 
-Lucky the current CCP leader in Guangxi has realized the problem and focus on promoting connections between Yunnan and Guizhou. And also they proposed to
-
-**Build Canals!**
+Lucky the current CCP leader in Guangxi has realized the problem and focus on promoting connections between Yunnan and Guizhou. And also they proposed to **Build Canals!**
 
 {% include figure.html width=1280 height=720 src="https://fuujgg.ch.files.1drv.com/y4mlpkF_kALCoSUFAk4XnTHT6cWiHU-ILnB7TgKqHm4CfbjQS6FrCPOCS_4LoyIjrRWk8Ck9lHQu7VC_RN78aB-PYILXx2H8UQ0WxIwPne2w4n0RiojLExaCEMQ8tWforXdPRqgNsvzLm91S_03zQeIiI7ExUgxOJ_eORUuw8S3KBkdD5YZ4-gP3vwgYWFAJ3tiNU5dHzA7kQ5zPCmLmObF9A?width=1280&height=720&cropmode=none" %}
 
