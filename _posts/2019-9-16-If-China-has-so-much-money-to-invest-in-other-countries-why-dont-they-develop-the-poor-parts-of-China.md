@@ -221,7 +221,7 @@ Picking tea leaves online?
 
 **Hydroelectricity**
 
-Of course, 4G signals are inseparable from the electricity. Yunnan and Guizhou are also blessed with the hydropower. Most of the worlds’ largest dams and power stations listed here are from Yunnan and Guizhou. [List of largest hydroelectric power stations - Wikipedia}(https://en.wikipedia.org/wiki/List_of_largest_hydroelectric_power_stations). They contribute to 30% of the hydroelectricity generated in China.
+Of course, 4G signals are inseparable from the electricity. Yunnan and Guizhou are also blessed with the hydropower. Most of the worlds’ largest dams and power stations listed here are from Yunnan and Guizhou. [List of largest hydroelectric power stations - Wikipedia](https://en.wikipedia.org/wiki/List_of_largest_hydroelectric_power_stations). They contribute to 30% of the hydroelectricity generated in China.
 
 - Yunnan hydropower generation: **280.4 terawatt hours** [4]
 - Guizhou hydropower generation: **65.8 terawatt hours** [5]
