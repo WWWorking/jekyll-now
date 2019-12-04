@@ -364,6 +364,6 @@ Author: [Janus Dongye Qimeng](https://www.quora.com/profile/Janus-Dongye-Qimeng)
 
 ---
 
-Remarks:
+Source:
 
 - [If China has so much money to invest in other countries, why don't they develop the poor parts of China?](https://www.quora.com/If-China-has-so-much-money-to-invest-in-other-countries-why-dont-they-develop-the-poor-parts-of-China)

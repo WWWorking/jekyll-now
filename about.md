@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-昵称：n/a (Flexible)
+昵称：羽川氏 (Flexible)
 
 生于：1992 年 4 月
 

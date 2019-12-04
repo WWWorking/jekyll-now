@@ -83,6 +83,6 @@ Author: Richard Gabriel(rpg@lucid.com)
 
 ---
 
-Remarks:
+Source:
 
 - [The Rise of ``Worse is Better''](https://www.jwz.org/doc/worse-is-better.html)

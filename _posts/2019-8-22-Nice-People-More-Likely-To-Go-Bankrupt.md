@@ -27,6 +27,6 @@ The [full study](https://www.apa.org/pubs/journals/releases/psp-pspp0000220.pdf)
 
 ---
 
-Remarks:
+Source:
 
 - [Nice People More Likely To Go Bankrupt, Study Finds](https://www.studyfinds.org/nice-people-more-likely-bankrupt-financial-struggles-study-finds/)
